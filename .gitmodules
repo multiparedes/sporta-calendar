@@ -1,0 +1,6 @@
+[submodule "sporta-calendar-backend"]
+	path = sporta-calendar-backend
+	url = https://github.com/multiparedes/sporta-calendar-backend
+[submodule "sporta-calendar-frontend"]
+	path = sporta-calendar-frontend
+	url = https://github.com/multiparedes/sporta-calendar-frontend
